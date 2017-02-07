@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="116" viewBox="0 0 116 116" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="a" points="93.989 27.463 46.997 .274 0 27.552 0 80.995 46.997 108.274 93.989 80.995 93.989 27.552 93.868 27.619"/>
+    <mask id="b" width="93.989" height="108" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <mask id="c" width="93.989" height="108" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(10 1)">
+      <g transform="translate(0 2)">
+        <g transform="translate(.326 .09)" stroke-linejoin="round">
+          <use fill="#EEEEEE" stroke="#FFFFFF" stroke-width="10" mask="url(#b)" xlink:href="#a"/>
+          <use stroke="#535353" stroke-width="4" mask="url(#c)" xlink:href="#a"/>
+        </g>
+        <path stroke="#FFFFFF" d="M3.74855265,29.538961 L46.4584804,55.5363084" stroke-linecap="square"/>
+        <path stroke="#FFFFFF" d="M47.4412223,29.538961 L90.15115,55.5363084" stroke-linecap="square" transform="matrix(-1 0 0 1 137.592 0)"/>
+        <path stroke="#FFFFFF" d="M46.8264747,102.928571 L46.8264747,55.9285714" stroke-linecap="square"/>
+      </g>
+      <g transform="translate(36.976 .364)">
+        <rect width="12" height="8" x="4.024" y=".636" fill="#FFFFFF"/>
+        <rect width="6" height="21" x="7" y="3" fill="#535353"/>
+        <polygon fill="#535353" points="10 23 20 35 0 35" transform="matrix(1 0 0 -1 0 58)"/>
+      </g>
+    </g>
+    <rect width="116" height="116"/>
+  </g>
+</svg>

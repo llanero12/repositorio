@@ -1,0 +1,50 @@
+﻿2017-01-25 17:33:28> Program: Starting Squirrel Updater: --createShortcut 3dPCCClient.exe
+2017-01-25 17:33:28> ApplyReleasesImpl: About to create shortcuts for 3dPCCClient.exe, rootAppDir C:\Users\teniente\AppData\Local\hp_3d_cc_frontend
+2017-01-25 17:33:28> ApplyReleasesImpl: Creating shortcut for 3dPCCClient.exe => C:\Users\teniente\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HP, Inc\HP SmartStream 3D Command Center.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: About to save shortcut: C:\Users\teniente\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HP, Inc\HP SmartStream 3D Command Center.lnk (target C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\Update.exe, workingDir C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617, args --processStart "3dPCCClient.exe")
+2017-01-25 17:33:28> ApplyReleasesImpl: Creating shortcut for 3dPCCClient.exe => C:\Users\teniente\Desktop\HP SmartStream 3D Command Center.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: About to save shortcut: C:\Users\teniente\Desktop\HP SmartStream 3D Command Center.lnk (target C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\Update.exe, workingDir C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617, args --processStart "3dPCCClient.exe")
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: HP SmartStream 3D Build Manager.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Intelligent Desktop Assistant (IDA).lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Internet Explorer (2).lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Internet Explorer.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Materialise Magics 21.0.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Outlook 2013.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Skype for Business 2015.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: VMware Workstation Pro.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Windows Explorer (2).lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Windows Explorer.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Windows Media Player (2).lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Windows Media Player.lnk
+2017-01-25 17:33:28> ApplyReleasesImpl: Examining Pin: Xming.lnk
+2017-01-25 17:36:00> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-01-25 17:36:00> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-01-25 17:36:00> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-01-27 09:31:35> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-01-27 09:31:35> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-01-27 09:31:35> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-01-27 13:32:25> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-01-27 13:32:25> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-01-27 13:32:25> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-02-01 12:17:09> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-02-01 12:17:09> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-02-01 12:17:09> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-02-01 16:28:08> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-02-01 16:28:08> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-02-01 16:28:08> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-02-02 12:23:30> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-02-02 12:23:31> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-02-02 12:23:31> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-02-02 12:24:24> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-02-02 12:24:24> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-02-02 12:24:24> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-02-02 12:25:14> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-02-02 12:25:14> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-02-02 12:25:14> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-02-02 12:26:19> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-02-02 12:26:19> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-02-02 12:26:19> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 
+2017-02-02 12:41:17> Program: Starting Squirrel Updater: --processStart 3dPCCClient.exe
+2017-02-02 12:41:17> Program: Want to launch 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe'
+2017-02-02 12:41:17> Program: About to launch: 'C:\Users\teniente\AppData\Local\hp_3d_cc_frontend\app-1.2.617\3dPCCClient.exe': 

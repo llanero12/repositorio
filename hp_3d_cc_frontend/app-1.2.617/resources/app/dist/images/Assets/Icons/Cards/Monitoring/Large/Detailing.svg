@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="108" viewBox="0 0 30 108" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="30" height="108" rx="2"/>
+    <mask id="d" width="30" height="108" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" width="22" height="100" x="4" y="4" rx="2"/>
+    <mask id="e" width="22" height="100" x="0" y="0" fill="white">
+      <use xlink:href="#b"/>
+    </mask>
+    <rect id="f" width="20" height="98" rx="3"/>
+    <linearGradient id="h" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop stop-color="#B9B8BB" offset="0%"/>
+      <stop stop-color="#EEEEEE" offset="100%"/>
+    </linearGradient>
+    <rect id="c" width="22" height="100" x="4" y="4" rx="2"/>
+    <mask id="i" width="22" height="100" x="0" y="0" fill="white">
+      <use xlink:href="#c"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#D5D5D5" stroke="#87898B" stroke-width="2" mask="url(#d)" xlink:href="#a"/>
+    <use fill="#FFFFFF" stroke="#B9B8BB" stroke-width="2" mask="url(#e)" xlink:href="#b"/>
+    <g transform="translate(5 4)">
+      <g transform="translate(0 1)">
+        <mask id="g" fill="white">
+          <use xlink:href="#f"/>
+        </mask>
+        <use fill="#F4F4F4" xlink:href="#f"/>
+        <path stroke="#D5D5D5" d="M-17.5,-98.5 L51.5,-29.5" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17.5 -102.5 51.5 -33.5 164.252 79.252" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -98 52 -29 164.752 83.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -94 52 -25 164.752 87.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -90 52 -21 164.752 91.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -86 52 -17 164.752 95.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -82 52 -13 164.752 99.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -78 52 -9 164.752 103.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -74 52 -5 164.752 107.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -70 52 -1 164.752 111.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -66 52 3 164.752 115.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -62 52 7 164.752 119.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -58 52 11 164.752 123.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -54 52 15 164.752 127.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -50 52 19 164.752 131.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -46 52 23 164.752 135.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -42 52 27 164.752 139.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -38 52 31 164.752 143.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -34 52 35 164.752 147.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -30 52 39 164.752 151.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -26 52 43 164.752 155.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -22 52 47 164.752 159.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -18 52 51 164.752 163.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -14 52 55 164.752 167.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -10 52 59 164.752 171.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -6 52 63 164.752 175.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 -2 52 67 164.752 179.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 2 52 71 164.752 183.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 6 52 75 164.752 187.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 10 52 79 164.752 191.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 14 52 83 164.752 195.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 18 52 87 164.752 199.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 22 52 91 164.752 203.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 26 52 95 164.752 207.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 30 52 99 164.752 211.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 34 52 103 164.752 215.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 38 52 107 164.752 219.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 42 52 111 164.752 223.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 46 52 115 164.752 227.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 50 52 119 164.752 231.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 54 52 123 164.752 235.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 58 52 127 164.752 239.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 62 52 131 164.752 243.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 66 52 135 164.752 247.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 70 52 139 164.752 251.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 74 52 143 164.752 255.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 78 52 147 164.752 259.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 82 52 151 164.752 263.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 86 52 155 164.752 267.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 90 52 159 164.752 271.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 94 52 163 164.752 275.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 98 52 167 164.752 279.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 102 52 171 164.752 283.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 106 52 175 164.752 287.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 110 52 179 164.752 291.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 114 52 183 164.752 295.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 118 52 187 164.752 299.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 122 52 191 164.752 303.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 126 52 195 164.752 307.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 130 52 199 164.752 311.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 134 52 203 164.752 315.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 138 52 207 164.752 319.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 142 52 211 164.752 323.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 146 52 215 164.752 327.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 150 52 219 164.752 331.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 154 52 223 164.752 335.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 158 52 227 164.752 339.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 162 52 231 164.752 343.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 166 52 235 164.752 347.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 170 52 239 164.752 351.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 174 52 243 164.752 355.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 178 52 247 164.752 359.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 182 52 251 164.752 363.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 186 52 255 164.752 367.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 190 52 259 164.752 371.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 194 52 263 164.752 375.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 198 52 267 164.752 379.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 202 52 271 164.752 383.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 206 52 275 164.752 387.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 210 52 279 164.752 391.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 214 52 283 164.752 395.752" stroke-linecap="square" mask="url(#g)"/>
+        <polyline stroke="#D5D5D5" points="-17 218 52 287 164.752 399.752" stroke-linecap="square" mask="url(#g)"/>
+        <path stroke="#D5D5D5" d="M54.5-82.5L123.5-13.5M54.5-86.5L123.5-17.5M54.5-90.5L123.5-21.5M54.5-94.5L123.5-25.5M54.5-98.5L123.5-29.5M54.5-102.5L123.5-33.5M54.5-106.5L123.5-37.5M54.5-110.5L123.5-41.5M54.5-114.5L123.5-45.5M54.5-118.5L123.5-49.5M54.5-122.5L123.5-53.5M54.5-126.5L123.5-57.5M54.5-130.5L123.5-61.5M54.5-134.5L123.5-65.5M54.5-138.5L123.5-69.5" stroke-linecap="square" mask="url(#g)"/>
+      </g>
+      <rect width="10" height="99" fill="url(#h)" fill-opacity=".5" style="mix-blend-mode:multiply"/>
+    </g>
+    <use stroke="#B9B8BB" stroke-width="2" mask="url(#i)" xlink:href="#c"/>
+    <g fill="#BFBFBF" transform="translate(1 28)">
+      <polygon points="0 26.01 28.031 26.01 28.031 25.01 0 25.01" style="mix-blend-mode:multiply"/>
+      <polygon points="0 1.01 28.031 1.01 28.031 .01 0 .01" style="mix-blend-mode:multiply"/>
+      <polygon points="0 51.01 28.031 51.01 28.031 50.01 0 50.01" style="mix-blend-mode:multiply"/>
+    </g>
+  </g>
+</svg>

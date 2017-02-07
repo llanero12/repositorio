@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="108" viewBox="0 0 30 108" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="30" height="108" rx="2"/>
+    <mask id="d" width="30" height="108" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" width="22" height="100" x="4" y="4" rx="2"/>
+    <mask id="e" width="22" height="100" x="0" y="0" fill="white">
+      <use xlink:href="#b"/>
+    </mask>
+    <rect id="f" width="20" height="98" rx="3"/>
+    <linearGradient id="g" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop stop-color="#B9B8BB" offset="0%"/>
+      <stop stop-color="#EEEEEE" offset="100%"/>
+    </linearGradient>
+    <rect id="c" width="22" height="100" x="4" y="4" rx="2"/>
+    <mask id="h" width="22" height="100" x="0" y="0" fill="white">
+      <use xlink:href="#c"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#D5D5D5" stroke="#87898B" stroke-width="2" mask="url(#d)" xlink:href="#a"/>
+    <use fill="#FFFFFF" stroke="#B9B8BB" stroke-width="2" mask="url(#e)" xlink:href="#b"/>
+    <g transform="translate(5 5)">
+      <use fill="#535353" xlink:href="#f"/>
+      <g fill="url(#g)" fill-opacity=".5">
+        <rect width="10" height="98" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+    <use stroke="#B9B8BB" stroke-width="2" mask="url(#h)" xlink:href="#c"/>
+    <g fill="#BFBFBF" transform="translate(1 28)">
+      <polygon points="0 26.01 28.031 26.01 28.031 25.01 0 25.01" style="mix-blend-mode:multiply"/>
+      <polygon points="0 1.01 28.031 1.01 28.031 .01 0 .01" style="mix-blend-mode:multiply"/>
+      <polygon points="0 51.01 28.031 51.01 28.031 50.01 0 50.01" style="mix-blend-mode:multiply"/>
+    </g>
+  </g>
+</svg>

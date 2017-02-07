@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="60" viewBox="0 0 28 60" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="28" height="57"/>
+    <mask id="e" width="28" height="57" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <rect id="b" width="28" height="4" y="56"/>
+    <mask id="f" width="28" height="4" x="0" y="0" fill="white">
+      <use xlink:href="#b"/>
+    </mask>
+    <rect id="c" width="22" height="10" x="3" y="43" rx="1"/>
+    <mask id="g" width="22" height="10" x="0" y="0" fill="white">
+      <use xlink:href="#c"/>
+    </mask>
+    <rect id="d" width="11" height="10" x="3" y="43" rx="2"/>
+    <mask id="h" width="11" height="10" x="0" y="0" fill="white">
+      <use xlink:href="#d"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="rotate(-180 14 30)">
+      <g stroke-width="2">
+        <use fill="#87898B" stroke="#636363" mask="url(#e)" xlink:href="#a"/>
+        <use fill="#0096D6" stroke="#1C1C1C" mask="url(#f)" xlink:href="#b"/>
+      </g>
+      <rect width="3" height="27.993" x="25" y="27.964" fill="#1C1C1C"/>
+      <rect width="3" height="27.993" y="27.964" fill="#1C1C1C"/>
+      <rect width="1" height="26.979" x="26" y="28.959" fill="#E2E2E2"/>
+      <rect width="1" height="26.979" x="1" y="28.959" fill="#E2E2E2"/>
+    </g>
+    <use fill="#D5D5D5" stroke="#3E3E3E" stroke-width="2" mask="url(#g)" xlink:href="#c"/>
+    <use fill="#3E3E3E" stroke="#3E3E3E" stroke-width="2" mask="url(#h)" transform="matrix(-1 0 0 1 17 0)" xlink:href="#d"/>
+  </g>
+</svg>

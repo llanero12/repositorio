@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="30" viewBox="0 0 45 30" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="6" height="16" x="37" y="8"/>
+    <mask id="d" width="6" height="16" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <path id="b" d="M2,26.0916672 L2,0.998170129 C2,0.446895989 2.45363436,0 2.99921123,0 L43.9836133,0 C44.5354625,0 44.9828246,0.455500157 44.9828246,0.99912303 L44.9828246,26.1165748 C44.9828246,26.7449986 44.2667096,29.0486478 44.2667096,29.0486478 C44.1099242,29.5740651 43.5418802,30 42.972833,30 L32.3729383,30 L29.148204,30 L3.99311087,30 C3.44463088,30 2.86926746,29.5648897 2.716115,29.0435731 C2.716115,29.0435731 2,26.7283936 2,26.0916672 Z"/>
+    <mask id="e" width="42.983" height="30" x="0" y="0" fill="white">
+      <use xlink:href="#b"/>
+    </mask>
+    <rect id="c" width="9" height="6" y="3" rx="1"/>
+    <mask id="f" width="9" height="6" x="0" y="0" fill="white">
+      <use xlink:href="#c"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1" height="23.414" x="28" y="5.611" fill="#A2A2A2"/>
+    <use stroke="#A2A2A2" stroke-width="2" mask="url(#d)" xlink:href="#a"/>
+    <rect width="42.983" height="1" fill="#A2A2A2" transform="translate(2 26)"/>
+    <polygon fill="#3E3E3E" points="5 0 36 0 36 1 30.655 2 10.879 2 5 1"/>
+    <use stroke="#3E3E3E" stroke-width="2" mask="url(#e)" xlink:href="#b"/>
+    <rect width="42" height="1" x="2" y="5" fill="#A2A2A2"/>
+    <rect width="1" height="23.414" x="10" y="5.611" fill="#A2A2A2"/>
+    <use fill="#F2F2F2" stroke="#3E3E3E" stroke-width="2" mask="url(#f)" xlink:href="#c"/>
+  </g>
+</svg>

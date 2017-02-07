@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(1 4)">
+      <path fill="#898989" d="M4.9886095,6.28080174 L14.8119026,11.9333653 L24.5632174,6.07169371 L14.8119024,0.531162547 L4.9886095,6.28080174 Z"/>
+      <polygon fill="#717171" points="14.777 23.082 24.529 17.246 24.529 6.066 14.777 11.863"/>
+      <polygon fill="#3E3E3E" points="5.082 23.244 14.796 17.691 14.796 6.319 4.84 12.139" transform="rotate(-60 9.818 14.781)"/>
+    </g>
+    <rect width="32" height="32"/>
+  </g>
+</svg>

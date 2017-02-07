@@ -1,0 +1,23 @@
+{
+  "Pending jobs": "Pending jobs",
+  "Heating lamps": "Heating lamps",
+  "Cleaning rolls": "Cleaning rolls",
+  "Fusing lamps": "Fusing lamps",
+  "Agents": "Agents",
+  "Printheads": "Printheads",
+  "Add printer":"Add printer",
+  "Close":"Close",
+  "Jobs":"Jobs",
+  "Monitor":"Monitor",
+  "Printer utility":"Printer utility",
+  "Statistics":"Statistics",
+  "Server_not_Found": "Server not found",
+  "Name_already_used":"Name already used",
+  "409_Conflict_error": "Conflict",
+  "404_Not_found": "No device found",
+  "Wrong_IP_format": "Wrong IP format",
+  "Fusing": "Fusing",
+  "Fusing_Short" : "F",
+  "Detailing" : "Detailing",
+  "Detailing_Short" : "D"
+}

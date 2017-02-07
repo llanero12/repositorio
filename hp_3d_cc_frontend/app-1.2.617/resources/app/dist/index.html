@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]><html class="ie9" lang="en"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<head>
+	<title>HP SmartStream 3D Command Center</title>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="icon" href="images/hp_logo.ico">
+	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+</head>
+
+<body ng-app="hp3d">
+	<div ui-view class="app"></div>
+	<script type="text/javascript">
+		// TODO: use electron-prebuilt-compile to be able to
+		// "require(ipc)" from AngularJS scripts or provide an
+		// Angular wrapper for this 2 objects so we can "inject" them
+		// var remote = require('remote');
+		window.ipcRenderer = require('electron').ipcRenderer;
+	</script>
+	<script src="bundle.js"></script>
+</body>
+</html>

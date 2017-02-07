@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="a" points="0 22 36 22 36 0 0 0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(6 13)">
+      <path fill="#535353" d="M36,2 L36,14 L0,14 L0,2 C0,0.9 0.9,0 2,0 L34,0 C35.1,0 36,0.9 36,2 L36,2 Z"/>
+      <polygon fill="#535353" points="2.533 20.915 1.667 20.415 4.167 16.085 5.033 16.585"/>
+      <mask id="b" fill="white">
+        <use xlink:href="#a"/>
+      </mask>
+      <polygon fill="#535353" points="7 22 8 22 8 16 7 16" mask="url(#b)"/>
+      <polygon fill="#535353" points="13.667 20.415 12.801 20.915 10.301 16.585 11.167 16.085" mask="url(#b)"/>
+      <polygon fill="#535353" points="23.533 20.915 22.667 20.415 25.167 16.085 26.033 16.585" mask="url(#b)"/>
+      <polygon fill="#535353" points="28 21 29 21 29 16 28 16" mask="url(#b)"/>
+      <polygon fill="#535353" points="28 22 29 22 29 16 28 16" mask="url(#b)"/>
+      <polygon fill="#535353" points="34.667 20.415 33.801 20.915 31.301 16.585 32.167 16.085" mask="url(#b)"/>
+      <polygon fill="#FFFFFF" points="2 3 34 3 34 2 2 2" mask="url(#b)"/>
+    </g>
+    <rect width="48" height="48"/>
+  </g>
+</svg>
